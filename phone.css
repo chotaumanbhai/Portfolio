@@ -1,0 +1,1298 @@
+@media only screen and (max-width: 375px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #navbar {
+        width: 375px;
+    }
+
+    #nav {
+        display: inline;
+    }
+
+    #Home {
+        margin-left: 23px;
+        margin-top: 18px;
+    }
+
+    #about {
+
+        margin-left: 91px;
+        margin-top: -19px;
+
+    }
+
+    #services {
+        margin-left: 172px;
+        margin-top: -18px;
+    }
+
+    #contact {
+        margin-left: 274px;
+        margin-top: -19px;
+    }
+
+    #logoname {
+        margin-left: 40px;
+    }
+
+    #logoname2 {
+        margin-left: 110px;
+    }
+
+    #small {
+        margin-left: 154px;
+
+    }
+
+    #heading1 {
+        margin-left: 4px;
+    }
+
+
+    #heading2 {
+        margin-top: 7px;
+        margin-left: 3px;
+        font-size: 47px;
+    }
+
+    #heading3 {
+        margin-left: -109px;
+        font-size: 25px;
+
+    }
+
+    .typed {
+        margin-left: 119px;
+        font-size: 20px;
+        margin-top: -23px;
+    }
+
+    /* About */
+    #heading4 {
+        margin-left: -59px;
+    }
+
+    #heading5 {
+        margin-left: -55px;
+    }
+
+    #intro {
+        margin-left: 16px;
+        font-size: 18px;
+    }
+
+    #intro2 {
+        margin-left: 14px;
+        width: 351px;
+    }
+
+    #icon {
+        margin-left: 20px;
+    }
+
+    #birth {
+        margin-left: 71px;
+
+    }
+
+    .colon {
+
+        margin-left: 169px;
+
+    }
+
+    .colon2 {
+        margin-left: 137px;
+
+    }
+
+    #date {
+        margin-left: 200px;
+    }
+
+    #date2 {
+        margin-left: 200px;
+    }
+
+    #btn {
+
+        margin-left: 24px;
+
+    }
+
+    #image {
+
+        margin-top: 40px;
+        margin-left: 28px;
+        width: 309px;
+
+
+    }
+
+    #container {
+        height: 1082px;
+    }
+
+    /* Skills */
+    .skills {
+        margin-left: 4px;
+    }
+
+    .progress {
+        width: 336px;
+    }
+
+    /* Services */
+    #line {
+        margin-left: 79px;
+    }
+
+    #offer {
+        margin-left: 129px;
+    }
+
+    #line2 {
+
+        margin-left: 274px;
+
+
+    }
+
+    #container3 {
+        height: 1900px;
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: -20px;
+    
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: -20px;
+        margin-top: 4px;
+    }
+
+    /* Contatct */
+    #line3 {
+        margin-left: 72px;
+
+    }
+
+    #offer2 {
+        margin-left: 117px;
+
+    }
+
+    #line4 {
+        margin-left: 302px;
+
+    }
+
+    #name {
+        margin-left: -68px;
+        width: 318px;
+    }
+
+    #email {
+        margin-left: -68px;
+        width: 318px;
+    }
+
+    #message {
+        margin-left: -68px;
+        width: 318px;
+    }
+
+    #btn3 {
+        margin-left: 4px;
+    }
+
+    #footer {
+        height: 40px;
+    }
+
+}
+
+@media only screen and (min-width:376px) and (max-width: 414px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #nav {
+        display: inline;
+    }
+
+    #Home {
+
+        margin-left: 32px;
+        margin-top: 61px;
+
+
+    }
+
+    #about {
+
+        margin-left: 103px;
+        margin-top: -19px;
+
+    }
+
+    #services {
+        margin-left: 181px;
+        margin-top: -18px;
+    }
+
+    #contact {
+        margin-left: 282px;
+        margin-top: -19px;
+    }
+
+    #logoname {
+        margin-left: 40px;
+    }
+
+    #logoname2 {
+        margin-left: 110px;
+    }
+
+    #small {
+        margin-left: 176px;
+
+    }
+
+    #heading1 {
+        margin-left: 4px;
+    }
+
+    #navbar {
+        width: 428px;
+    }
+
+    #heading2 {
+        margin-top: 7px;
+        margin-left: 3px;
+        font-size: 47px;
+    }
+
+    #heading3 {
+        margin-left: -83px;
+        font-size: 25px;
+
+    }
+
+    .typed {
+        margin-left: 133px;
+        font-size: 20px;
+        margin-top: -24px;
+    }
+
+    /* About */
+    #container {
+        height: 1082px;
+    }
+
+    #intro {
+        margin-left: 18px;
+        font-size: 20px;
+    }
+
+    #intro2 {
+
+        margin-left: 23px;
+        width: 360px;
+
+    }
+
+    #icon {
+        margin-left: 47px;
+    }
+
+    #birth {
+
+        margin-left: 109px;
+
+    }
+
+    .colon {
+
+        margin-left: 203px;
+
+    }
+
+    .colon2 {
+
+        margin-left: 203px;
+
+    }
+
+    #date {
+
+        margin-left: 225px;
+
+    }
+
+    #date2 {
+
+        margin-left: 225px;
+
+    }
+
+    #btn {
+
+        margin-left: 48px;
+
+
+    }
+
+    #image {
+
+        margin-top: 40px;
+        margin-left: 39px;
+        width: 321px;
+
+
+
+    }
+
+    /* Skills */
+    .skills {
+        margin-left: 4px;
+    }
+
+    .progress {
+
+        width: 381px;
+
+    }
+
+    /* Serivices */
+    #line {
+        margin-left: 98px;
+    }
+
+    #offer {
+        margin-left: 149px;
+    }
+
+    #line2 {
+
+        margin-left: 295px;
+
+
+    }
+
+    #container3 {
+        height: 1900px;
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: -4px;
+
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: -4px;
+        margin-top: 4px;
+    }
+
+    /* Contact */
+    #line3 {
+        margin-left: 72px;
+
+    }
+
+    #offer2 {
+        margin-left: 117px;
+
+    }
+
+    #line4 {
+        margin-left: 302px;
+
+    }
+
+    #name {
+        margin-left: -61px;
+        width: 343px;
+
+    }
+
+    #email {
+        margin-left: -61px;
+        width: 343px;
+
+    }
+
+    #message {
+        margin-left: -61px;
+        width: 343px;
+
+    }
+
+    #btn3 {
+        margin-left: 34px;
+        /* footer */
+
+    }
+
+    #footer {
+        height: 40px;
+    }
+}
+
+@media only screen and (min-width:415px) and (max-width: 740px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #nav {
+        display: inline;
+    }
+
+    #Home {
+
+        margin-left: 71px;
+        margin-top: 38px;
+
+    }
+
+    #about {
+
+        margin-left: 146px;
+        margin-top: -18px;
+
+    }
+
+    #services {
+        margin-left: 226px;
+        margin-top: -18px;
+
+    }
+
+    #contact {
+        margin-left: 327px;
+        margin-top: -19px;
+    }
+
+    #logoname {
+        margin-left: 27px;
+        margin-top: -25px;
+    }
+
+    #logoname2 {
+        margin-left: 100px;
+
+    }
+
+    #logopic {
+
+        margin-top: 42px;
+
+    }
+
+    #small {
+        margin-left: 171px;
+    }
+
+    #heading1 {
+        margin-left: -955px;
+
+    }
+
+    #heading2 {
+        margin-left: -926px;
+        margin-top: 16px;
+
+    }
+
+    #heading3 {
+        margin-left: 5px;
+        font-size: 20px;
+    }
+
+    .typed {
+        margin-left: 148px;
+        font-size: 17px;
+        margin-top: -20px;
+
+    }
+
+    /* About */
+    #container {
+        height: 1082px;
+    }
+
+    #intro {
+        margin-left: 46px;
+        font-size: 20px;
+
+    }
+
+    #intro2 {
+        margin-left: 23px;
+        width: 401px;
+    }
+
+    #icon {
+        margin-left: 36px;
+    }
+
+    #birth {
+
+        margin-left: 96px;
+
+
+    }
+
+    .colon {
+        margin-left: 204px;
+    }
+
+    #btn {
+        margin-left: 41px;
+        margin-top: 39px;
+    }
+
+    #date {
+        margin-left: 229px;
+    }
+
+    #date2 {
+        margin-left: 229px;
+    }
+
+    #heading5 {
+
+        margin-left: 2px;
+
+    }
+
+    #image {
+
+        margin-top: 40px;
+        margin-left: 29px;
+        width: 361px;
+
+    }
+
+    /* skills */
+    .skills {
+        margin-left: 31px;
+    }
+
+    .progress {
+        width: 345px;
+    }
+
+    /* Services */
+
+    #line {
+        margin-left: 116px;
+    }
+
+    #offer {
+        margin-left: 164px;
+    }
+
+    #line2 {
+        margin-left: 307px;
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: 12px;
+
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 12px;
+        margin-top: -15px;
+    }
+
+    #container3 {
+
+        height: 1900px;
+
+    }
+
+    /* Contact */
+    #line3 {
+        margin-left: 91px;
+    }
+
+    #offer2 {
+        margin-left: 137px;
+    }
+
+    #line4 {
+        margin-left: 326px;
+
+    }
+
+    #name {
+        width: 373px;
+        margin-left: -61px;
+    }
+
+    #email {
+        width: 373px;
+        margin-left: -61px;
+    }
+
+    #message {
+        width: 373px;
+        margin-left: -61px;
+    }
+
+    #btn3 {
+        margin-left: 33px;
+
+    }
+
+    #footer {
+        height: 40px;
+    }
+}
+
+@media only screen and (min-width:741px) and (max-width: 768px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #nav {
+        display: inline;
+    }
+
+    #Home {
+        margin-left: 365px;
+        margin-top: -18px;
+    }
+
+    #about {
+
+        margin-left: 456px;
+        margin-top: -19px;
+
+    }
+
+    #services {
+        margin-left: 550px;
+        margin-top: -18px;
+    }
+
+    #contact {
+        margin-left: 660px;
+        margin-top: -19px;
+    }
+
+    #logoname {
+        margin-left: 115px;
+    }
+
+    #logoname2 {
+        margin-left: 187px;
+    }
+
+    #logopic {
+
+        margin-top: 42px;
+
+    }
+
+    #small {
+        margin-left: 400px;
+    }
+
+    #heading1 {
+        margin-left: -955px;
+
+    }
+
+    #heading2 {
+        margin-left: -295px;
+
+    }
+
+    #heading3 {
+        margin-left: 111px;
+    }
+
+    .typed {
+        margin-left: 269px;
+        ;
+
+    }
+
+    /* About */
+    #intro {
+        margin-left: 97px;
+        text-align: center;
+        font-weight: bold;
+
+    }
+
+    #intro2 {
+        margin-left: 34px;
+        width: 729px;
+    }
+
+    #icon {
+        margin-left: 94px;
+    }
+
+    #birth {
+
+        margin-left: 211px;
+
+    }
+
+    .colon {
+        margin-left: 385px;
+    }
+
+    #btn {
+        margin-left: 217px;
+        margin-top: 104px;
+    }
+
+    #image {
+
+        display: none;
+
+
+    }
+
+    #date {
+        margin-left: 481px;
+    }
+
+    #date2 {
+        margin-left: 481px;
+    }
+
+    #heading4 {
+        text-align: center;
+    }
+
+    #heading5 {
+        text-align: center;
+        margin-left: 174px;
+    }
+
+    /* skills */
+    .skills {
+        margin-left: 60px;
+    }
+
+    /* Services */
+
+    #line {
+        margin-left: 284px;
+    }
+
+    #offer {
+
+        margin-left: 345px;
+
+    }
+
+    #line2 {
+        margin-left: 502px;
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: -2px;
+
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 182px;
+        margin-top: 4px;
+    }
+
+    #box3 {
+        margin-top: -210px;
+        margin-left: 392px;
+    }
+
+    #box4 {
+        margin-top: -212px;
+        margin-left: 209px;
+    }
+
+    #box5 {
+        margin-left: -168px;
+    }
+
+    #box6 {
+        margin-top: -208px;
+        margin-left: 207px;
+    }
+
+    #container3 {
+
+        height: 1100px;
+
+    }
+
+    /* Contact */
+    #line3 {
+        margin-left: 274px;
+    }
+
+    #offer2 {
+        margin-left: 321px;
+    }
+
+    #line4 {
+        margin-left: 507px;
+    }
+
+    #name {
+        width: 714px;
+        margin-left: -61px;
+    }
+
+    #email {
+        width: 714px;
+        margin-left: -61px;
+    }
+
+    #message {
+        width: 714px;
+        margin-left: -61px;
+    }
+
+    #btn3 {
+
+        margin-left: 236px;
+
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width: 820px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #nav {
+        display: inline;
+    }
+
+    #Home {
+        margin-left: 365px;
+        margin-top: -18px;
+    }
+
+    #about {
+
+        margin-left: 456px;
+        margin-top: -19px;
+
+    }
+
+    #services {
+        margin-left: 550px;
+        margin-top: -18px;
+    }
+
+    #contact {
+        margin-left: 660px;
+        margin-top: -19px;
+    }
+
+    #logoname {
+        margin-left: 115px;
+    }
+
+    #logoname2 {
+        margin-left: 187px;
+    }
+
+    #logopic {
+
+        margin-top: 42px;
+
+    }
+
+    #small {
+        margin-left: 400px;
+    }
+
+    #heading1 {
+        margin-left: -955px;
+
+    }
+
+    #heading2 {
+        margin-left: -295px;
+
+    }
+
+    #heading3 {
+        margin-left: 111px;
+    }
+
+    .typed {
+        margin-left: 269px;
+        ;
+
+    }
+
+    /* About */
+    #intro {
+        margin-left: 97px;
+        text-align: center;
+        font-weight: bold;
+
+    }
+
+    #intro2 {
+        margin-left: 34px;
+        width: 729px;
+    }
+
+    #icon {
+        margin-left: 94px;
+    }
+
+    #birth {
+
+        margin-left: 211px;
+
+    }
+
+    .colon {
+        margin-left: 385px;
+    }
+
+    #btn {
+        margin-left: 217px;
+        margin-top: 104px;
+    }
+
+    #image {
+
+        display: none;
+
+
+    }
+
+    #date {
+        margin-left: 481px;
+    }
+
+    #date2 {
+        margin-left: 481px;
+    }
+
+    #heading4 {
+        text-align: center;
+    }
+
+    #heading5 {
+        text-align: center;
+        margin-left: 174px;
+    }
+
+    /* skills */
+    .skills {
+        margin-left: 60px;
+    }
+
+    /* Services */
+
+    #line {
+        margin-left: 284px;
+    }
+
+    #offer {
+
+        margin-left: 345px;
+
+    }
+
+    #line2 {
+        margin-left: 502px;
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 215px;
+        margin-top: 4px;
+    }
+
+    #box3 {
+        margin-top: -210px;
+        margin-left: 392px;
+    }
+
+    #box4 {
+        margin-top: -212px;
+        margin-left: 209px;
+    }
+
+    #box5 {
+        margin-left: -168px;
+    }
+
+    #box6 {
+        margin-top: -208px;
+        margin-left: 207px;
+    }
+
+    #container3 {
+
+        height: 1100px;
+
+    }
+
+    /* Contact */
+    #line3 {
+        margin-left: 274px;
+    }
+
+    #offer2 {
+        margin-left: 321px;
+    }
+
+    #line4 {
+        margin-left: 507px;
+    }
+
+    #name {
+
+        width: 764px;
+        margin-left: -61px;
+
+        margin-left: -61px;
+    }
+
+    #email {
+
+        width: 764px;
+        margin-left: -61px;
+
+        margin-left: -61px;
+    }
+
+    #message {
+
+        width: 764px;
+        margin-left: -61px;
+
+        margin-left: -61px;
+    }
+
+    #btn3 {
+
+        margin-left: 236px;
+
+    }
+}
+
+@media only screen and (min-width:821px) and (max-width: 912px) {
+
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #nav {
+        display: block;
+        margin-left: 608px;
+    }
+
+    #Home {
+        margin-left: -174px;
+    }
+
+    #about {
+
+        margin-top: -18px;
+        margin-left: -92px;
+
+    }
+
+    #services {
+        margin-top: -19px;
+        margin-left: -8px;
+    }
+
+    #contact {
+        margin-top: -19px;
+        margin-left: 89px;
+    }
+
+    #small {
+        margin-left: 400px;
+    }
+
+    #heading1 {
+        margin-left: -818px;
+    }
+
+    #heading2 {
+        margin-left: -171px;
+    }
+
+    #heading3 {
+        margin-left: 154px;
+    }
+
+    .typed {
+        margin-left: 289px;
+    }
+    #image{
+       
+    margin-left: 212px;
+    width: 272px;
+    margin-top: -248px;
+ 
+    }
+    #container{
+        margin-left: -113px;
+    }
+    /* Skills */
+    .skills{
+        margin-left: 127px;
+    }
+    /* services */
+    #line{
+        margin-left: 376px;
+    }
+    #offer{
+        
+    margin-left: 420px;
+
+
+    }
+    #line2{
+        
+        margin-left: 559px;
+
+
+    }
+
+    #mainbox {
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px
+    }
+
+    #mainbox2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 215px;
+        margin-top: 4px;
+    }
+
+    #box3 {
+        margin-top: -210px;
+        margin-left: 392px;
+    }
+
+    #box4 {
+        margin-top: -212px;
+        margin-left: 209px;
+    }
+
+    #box5 {
+        margin-left: -168px;
+    }
+
+    #box6 {
+        margin-top: -208px;
+        margin-left: 207px;
+    }
+
+    #container3 {
+
+        height: 1100px;
+
+    }
+    /* contact */
+    #line3 {
+        margin-left: 330px;
+    }
+
+    #offer2 {
+        margin-left: 372px;
+    }
+
+    #line4 {
+        margin-left: 563px;
+    }
+    #name{
+        margin-left: -61px;
+        width: 761px;
+    }
+    #email{
+        margin-left: -61px;
+        width: 761px;
+    }
+    #message{
+        margin-left: -61px;
+        width: 761px;
+    }
+    #btn3{
+        margin-left: 255px;
+    }
+}
+@media only screen and (min-width:913px) and (max-width: 1024px) {
+   #container2{
+    width: 1349px;
+   }
+   #container3{
+    width: 1349px;
+   }
+   #container4{
+    width: 1349px;
+   }
+   .mapouter{
+    width: 1349px;
+   }
+   #footer{
+    width: 1349px;
+   }
+}
